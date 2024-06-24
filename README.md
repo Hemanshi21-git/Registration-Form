@@ -10,4 +10,4 @@ Basic validation for age,pincode and phone number length.
 Requirements
 Python 
 Tkinter 
-Its basic registration form which includes name,age, state ,gender and so on features.
+Its basic registration form .
